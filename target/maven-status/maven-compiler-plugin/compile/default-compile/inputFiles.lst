@@ -1,0 +1,10 @@
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\WeatherAPIClient.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\WeatherAPITask.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\WeatherAPIConfig.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\model\WeatherDetails.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\schema\WeatherAPISchemas.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\model\Main.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\WeatherAPIConnector.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\schema\WeatherAPISchemaFields.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\model\Weather.java
+C:\Users\kokchin.yap\Desktop\Kafka\kafka-connect-fundamentals\04\demos\weatherapi-connector\src\main\java\com\pluralsight\kafka\connect\model\Wind.java
